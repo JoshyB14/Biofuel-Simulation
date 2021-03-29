@@ -13,3 +13,7 @@ find_max_and_oscillation.py : Define a function that finds the maximum amount of
 generate.py : Define a function that uses many different pairs of alpha_b and alpha_p to simulate the biofuel production
 
 Design.py : Define a function that chooses the best designs of alpha_b and alpha_p parameters based on the most external biofuel product. The function chooses a best design based on threshold criteria and a poor design based only on output measures.
+
+biofuel_simulation_design_parameter_sets.py : Defines constants and starting parameter values
+
+biofuel_system_parameter_sets.py :  Defines constants and starting parameter values
